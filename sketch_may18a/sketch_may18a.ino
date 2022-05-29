@@ -7,15 +7,15 @@
 #define kapama            D2
 #define acma              D2
 
-#define WLAN_SSID       "Casper VIA_A1_1"             // MODEM ADI
-#define WLAN_PASS       "278c5e9fbb0c"        // MODEM ŞİFRESİ 
+#define WLAN_SSID       "***"             // MODEM ADI
+#define WLAN_PASS       "***"        // MODEM ŞİFRESİ 
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"                      //Adafruit Server
 #define AIO_SERVERPORT  1883                                  //Standart Port     
-#define AIO_USERNAME    "deaath"                             // ADAFRUİT.İO KULLANICI ADI
-#define AIO_KEY         "aio_VWhp96gbRQg8X4Zw6DMcT2OCCXNF"  // ADAFRUİT.İO ANAHTAR KODUMUZ
+#define AIO_USERNAME    "***"                             // ADAFRUİT.İO KULLANICI ADI
+#define AIO_KEY         "***"  // ADAFRUİT.İO ANAHTAR KODUMUZ
 
 //WIFI CLIENT
 WiFiClient client;
